@@ -27,6 +27,7 @@ const Work = () => {
                 </span>
                 <div className="pt-8 text-center">
                   <a
+                    rel="noreferrer"
                     target="_blank"
                     href="https://priceless-shirley-dcefde.netlify.app"
                   >
@@ -35,6 +36,7 @@ const Work = () => {
                     </button>
                   </a>
                   <a
+                    rel="noreferrer"
                     target="_blank"
                     href="https://github.com/9444302/weather-react"
                   >
@@ -55,6 +57,7 @@ const Work = () => {
                 </span>
                 <div className="pt-8 text-center">
                   <a
+                    rel="noreferrer"
                     href="https://goofy-varahamihira-08354f.netlify.app"
                     target="_blank"
                   >
@@ -63,6 +66,7 @@ const Work = () => {
                     </button>
                   </a>
                   <a
+                    rel="noreferrer"
                     href="https://github.com/9444302/dictionary-project"
                     target="_blank"
                   >
