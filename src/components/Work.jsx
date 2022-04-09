@@ -31,7 +31,7 @@ const Work = () => {
                     target="_blank"
                     href="https://priceless-shirley-dcefde.netlify.app"
                   >
-                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-pink-600">
                       Demo
                     </button>
                   </a>
@@ -40,7 +40,7 @@ const Work = () => {
                     target="_blank"
                     href="https://github.com/9444302/weather-react"
                   >
-                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-pink-600">
                       Code
                     </button>
                   </a>
@@ -61,7 +61,7 @@ const Work = () => {
                     href="https://goofy-varahamihira-08354f.netlify.app"
                     target="_blank"
                   >
-                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-pink-600">
                       Demo
                     </button>
                   </a>
@@ -70,7 +70,7 @@ const Work = () => {
                     href="https://github.com/9444302/dictionary-project"
                     target="_blank"
                   >
-                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-pink-600">
                       Code
                     </button>
                   </a>

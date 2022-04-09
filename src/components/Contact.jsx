@@ -24,7 +24,7 @@ const Contact = () => {
         <form
           method="POST"
           action="https://getform.io/f/1257a118-f1e8-4204-b7e0-03bcad968952"
-          className="flex flex-col w-full"
+          className="flex flex-col w-full mb-[80px]"
         >
           <input
             className="my-4 p-2 bg-[#ccd6f6] text-black"
@@ -47,7 +47,7 @@ const Contact = () => {
           <div>
             <button
               type="submit"
-              className="group text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600"
+              className="text-white border-2 hover:bg-pink-600 hover:border-pink-600 px-10 py-3 my-8 mx-auto flex items-center"
             >
               Send
             </button>
