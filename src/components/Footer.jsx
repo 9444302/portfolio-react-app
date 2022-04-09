@@ -35,7 +35,10 @@ const Footer = () => {
           </div>
         </div>
         <div className="text-right">
-          <a className="underline hover:text-pink-600" href="">
+          <a
+            className="underline hover:text-pink-600"
+            href="https://github.com/9444302"
+          >
             Open Source Code
           </a>
         </div>
