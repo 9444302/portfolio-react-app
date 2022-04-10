@@ -34,7 +34,7 @@ const Footer = () => {
         <div className="text-right">
           <a
             className="underline hover:text-pink-600"
-            href="https://github.com/9444302"
+            href="https://github.com/9444302/portfolio-react-app"
           >
             Open Source Code
           </a>
