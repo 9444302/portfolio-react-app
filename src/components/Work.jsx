@@ -7,7 +7,7 @@ const Work = () => {
     return (
       <div
         name="work"
-        className="w-full md:h-screen bg-[#0a192f] text-gray-300"
+        className="w-full md:h-screen bg-[#0a192f] text-gray-300 pt-[75px]"
       >
         <div className="max-w-[900px] mx-auto p-4 flex flex-col justify-center w-full h-full">
           <div className="pb-8">
@@ -23,7 +23,7 @@ const Work = () => {
             >
               <div className="opacity-0 group-hover:opacity-100">
                 <span className="text-2xl font-bold text-white tracking-wider">
-                  React JS aplication
+                  React JS Weather App
                 </span>
                 <div className="pt-8 text-center">
                   <a
@@ -53,7 +53,7 @@ const Work = () => {
             >
               <div className="opacity-0 group-hover:opacity-100">
                 <span className="text-2xl font-bold text-white tracking-wider">
-                  React JS aplication
+                  React JS Dictionary App
                 </span>
                 <div className="pt-8 text-center">
                   <a
