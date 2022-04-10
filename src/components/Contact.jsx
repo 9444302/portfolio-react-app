@@ -27,19 +27,19 @@ const Contact = () => {
           className="flex flex-col w-full mb-[80px]"
         >
           <input
-            className="my-4 p-2 bg-[#ccd6f6] text-black"
+            className="my-4 p-2 bg-[#f1f3fa] text-black"
             type="text"
             placeholder="Name"
             name="name"
           />
           <input
-            className="my-4 p-2 bg-[#ccd6f6] text-black"
+            className="my-4 p-2 bg-[#f1f3fa] text-black"
             type="email"
             placeholder="Email"
             name="email"
           />
           <textarea
-            className="my-4 p-2 bg-[#ccd6f6] text-black"
+            className="my-4 p-2 bg-[#f1f3fa] text-black"
             name="message"
             rows="10"
             placeholder="Message"
