@@ -12,7 +12,7 @@ const Footer = () => {
               rel="noreferrer"
               target="_blank"
               className="flex justify-between items-center w-full hover:text-pink-600"
-              href="/"
+              href="linkedin.com/in/tori-pitts-914085224"
             >
               <FaLinkedin />
             </a>
