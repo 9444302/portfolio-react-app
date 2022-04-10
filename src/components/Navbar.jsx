@@ -148,7 +148,7 @@ const Navbar = () => {
                 rel="noreferrer"
                 target="_blank"
                 className="flex justify-between items-center w-full text-gray-300"
-                href="linkedin.com/in/tori-pitts-914085224"
+                href="https://www.linkedin.com/in/tori-pitts-914085224"
               >
                 Linkedin <FaLinkedin />
               </a>
