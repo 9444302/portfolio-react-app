@@ -17,7 +17,9 @@ const About = () => {
                             </p>
                         </div>
                         <div>
-                            <p></p>
+                            <p>My coding journey started with an online course.  Through this I found that I had a real passion
+                                for Front-End developement. It combines my creative problem solving skills and interest in design.
+                            </p>
                         </div>
                   </div>
                 </div>
