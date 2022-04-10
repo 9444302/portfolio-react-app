@@ -146,6 +146,8 @@ const Navbar = () => {
           <ul>
             <li className="w-[150px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#0C66C2]">
               <a
+                rel="noreferrer"
+                target="_blank"
                 className="flex justify-between items-center w-full text-gray-300"
                 href="/"
               >
@@ -168,14 +170,6 @@ const Navbar = () => {
                 href="mailto: toripittsb@gmail.com"
               >
                 Email <HiOutlineMail />
-              </a>
-            </li>
-            <li className="w-[150px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-gray-700">
-              <a
-                className="flex justify-between items-center w-full text-gray-300"
-                href="/"
-              >
-                Resume <BsFillPersonLinesFill />
               </a>
             </li>
           </ul>

@@ -9,28 +9,26 @@ const Footer = () => {
         <div>
           <div className="grid grid-cols-4">
             <a
+              rel="noreferrer"
+              target="_blank"
               className="flex justify-between items-center w-full hover:text-pink-600"
               href="/"
             >
               <FaLinkedin />
             </a>
             <a
+              rel="noreferrer"
+              target="_blank"
               className="flex justify-between items-center w-full hover:text-pink-600"
-              href="/"
+              href="https://github.com/9444302"
             >
               <FaGithub />
             </a>
             <a
               className="flex justify-between items-center w-full hover:text-pink-600"
-              href="/"
+              href="mailto: toripittsb@gmail.com"
             >
               <HiOutlineMail />
-            </a>
-            <a
-              className="flex justify-between items-center w-full hover:text-pink-600"
-              href="/"
-            >
-              <BsFillPersonLinesFill />
             </a>
           </div>
         </div>
