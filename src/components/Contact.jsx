@@ -17,7 +17,7 @@ const Contact = () => {
               className="underline hover:text-pink-600"
               href="mailto: toripittsb@gmail.com"
             >
-              toripittsb@gmial.com
+              toripittsb@gmail.com
             </a>
           </p>
         </div>
